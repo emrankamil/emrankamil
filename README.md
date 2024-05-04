@@ -28,29 +28,33 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
-  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
-  <code><img title="React" height="30" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="30" src="images/redux.svg"></code>
-  <code><img title="Python" height="30" src="images/python-original.svg"></code>
-  <code><img title="Django" height="30" src="images/django.png"></code>
-  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
-  <code><img title="CSS" height="30" src="images/css.svg"></code>
-  <code><img title="SASS" height="30" src="images/sass.svg"></code>
-  <code><img title="Git" height="30" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
-  <code><img title="JQuery" height="30" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="30" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="30" src="images/json.svg"></code>
-  <code><img title="C" height="30" src="images/c.svg"></code>
-  <code><img title="GitHub" height="30" src="images/github.svg"></code>
-  <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
-  <code><img title="npm" height="30" src="images/npm.svg"></code>
-</p>
 <hr>
+
+## Languages
+
+<a><img title="Javascript" height="40" width="40" src="images/javascript.svg"></a> 
+<a><img title="Python" height="40" width="40" src="images/python-original.svg"></a>
+ <a><img title="Java" height="40" width="40" src="images/java-original.svg"></a>
+<a><img title="C" height="40" width="40" src="images/c.svg"></a>
+<a><img title="HTML5" height="40" width="40" src="images/html5.svg"></a>
+<a><img title="CSS" height="40" src="images/css.svg"></a>
+
+## Technology Stack
+  <a><img title="React" height="40" width="40" src="images/react-original.svg"></a>
+  <a><img title="Redux" height="40" width="40" src="images/redux.svg"></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a><img title="SASS" height="40" width="40" src="images/sass.svg"></a>
+  <a><img title="JQuery" height="40" width="40" src="images/jquery-original.svg"></a>
+  <a><img title="JSON" height="40" width="40" src="images/json.svg"></a>
+  <a><img title="npm" height="40" width="40" src="images/npm.svg"></a>
+
+## Databases
+  <a><img title="PostgreSQL" height="40" width="40" src="images/postgresql.svg"></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
