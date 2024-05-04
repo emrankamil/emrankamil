@@ -19,19 +19,18 @@
 
 ## About Me
 
-<p align="left">
   Hello, I'm Emran Kamil, a Full-stack Developer specializing in frontend development.
-  <br>
-  🎓 I'm An Electrical and Computer Engineer From Addis Ababa University, Ethiopia.
-  <br>
-  💻 Passionate about coding and learning, I'm always eager to explore new technologies and expand my skill set. 
-  <br>
-  📚 Currently, I'm immersing myself in advanced concepts of Data Structures and Algorithms through A2SV organization, aiming to deepen my understanding and further excel in my field.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/emrankamil/emrankamil/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: emran.kamil@a2sv.org">emran.kamil@a2sv.org</a>
-</p>
+  
+🎓 I'm An Electrical and Computer Engineer From Addis Ababa University, Ethiopia.
+
+💻 I'm always eager to explore new technologies and expand my skill set.
+
+📚 Currently, I'm immersing myself in advanced concepts of Data Structures and Algorithms through A2SV organization, aiming to deepen my understanding and further excel in my field.
+
+💬 Ask me anything [here](https://github.com/emrankamil/emrankamil/issues).
+
+📫 How to reach me: [emran.kamil@a2sv.org](mailto:emran.kamil@a2sv.org)
+
 <br>
 
 ## Languages
