@@ -8,11 +8,17 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/emran-kamil" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/emrankamil" title="Leetcode Profile"><img width="22" src="images/hackerrank.png"> Leetcode</a></code>
-  <code><a href="https://t.me/emex_nord" title="Telegram Profile"><img width="22" src="images/stackoverflow.svg"> Telegram</a></code>
-  <code><a href="https://codeforces.com/profile/emexnord" title="Codeforces Profile"><img width="22" src="images/instagram.svg"> Codeforces</a></code>
+  <code><a href="https://leetcode.com/emrankamil" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
+  <code><a href="https://t.me/emex_nord" title="Telegram Profile"><img width="22" src="images/telegram.svg"> Telegram</a></code>
+  <code><a href="https://codeforces.com/profile/emexnord" title="Codeforces Profile"><img width="22" src="images/code-forces.svg"> Codeforces</a></code>
 </h5>
 <br>
+<!-- <div align="center">
+  <img src="images/thoughtworks-gif_dribbble.gif" width="300" height="200"/>
+</div> -->
+
+## About Me
+
 <p align="left">
   Hello, I'm Emran Kamil, a Full-stack Developer specializing in frontend development.
   <br>
@@ -26,23 +32,23 @@
   <br>
   📫 How to reach me: <a href="mailto: emran.kamil@a2sv.org">emran.kamil@a2sv.org</a>
 </p>
-
-<hr>
 <br>
-<hr>
 
 ## Languages
 
 <a><img title="Javascript" height="40" width="40" src="images/javascript.svg"></a> 
 <a><img title="Python" height="40" width="40" src="images/python-original.svg"></a>
  <a><img title="Java" height="40" width="40" src="images/java-original.svg"></a>
+<a><img title="Typescript" height="40" src="images/typescript-logo-svgrepo-com.svg"></a>
 <a><img title="C" height="40" width="40" src="images/c.svg"></a>
-<a><img title="HTML5" height="40" width="40" src="images/html5.svg"></a>
-<a><img title="CSS" height="40" src="images/css.svg"></a>
+<a><img title="HTML5" height="45" width="40" src="images/html5.svg"></a>
+<a><img title="CSS" height="50" widht="40" src="images/css.svg"></a>
 
 ## Technology Stack
   <a><img title="React" height="40" width="40" src="images/react-original.svg"></a>
+  <a><img title="Nextjs" height="45" width="45" src="images/nextjs-svgrepo-com (1).svg"></a>
   <a><img title="Redux" height="40" width="40" src="images/redux.svg"></a>
+  <a><img title="Tailwind" height="40" width="40" src="images/tailwind-svgrepo-com.svg"></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -50,6 +56,8 @@
   <a><img title="JQuery" height="40" width="40" src="images/jquery-original.svg"></a>
   <a><img title="JSON" height="40" width="40" src="images/json.svg"></a>
   <a><img title="npm" height="40" width="40" src="images/npm.svg"></a>
+  <a><img title="figma" height="40" width="40" src="images/figma-svgrepo-com.svg"></a>
+  
 
 ## Databases
   <a><img title="PostgreSQL" height="40" width="40" src="images/postgresql.svg"></a>
