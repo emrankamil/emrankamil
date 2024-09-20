@@ -19,7 +19,7 @@
 
 ## About Me
 
-  Hello, I'm Emran Kamil, a Full-stack Developer specializing in frontend development.
+  Hello, I'm Emran Kamil, a Full-stack Developer specializing in backend development.
   
 🎓 I'm An Electrical and Computer Engineer From Addis Ababa University, Ethiopia.
 
