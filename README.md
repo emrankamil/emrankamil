@@ -29,7 +29,7 @@
 
 💬 Ask me anything [here](https://github.com/emrankamil/emrankamil/issues).
 
-📫 How to reach me: [emran.kamil@a2sv.org](mailto:emran.kamil@a2sv.org)
+📫 How to reach me: [emran.kamil@a2sv.org](mailto:emranhi001@gmail.com)
 
 <br>
 
