@@ -21,11 +21,11 @@
 
 Hello, I'm Emran Kamil, a Full-stack Developer specializing in backend development.
 
-🎓 I'm An Electrical and Computer Engineer From Addis Ababa University, Ethiopia.
+🎓 I'm A Computer Engineer From Addis Ababa University, Ethiopia.
 
-💻 I'm always eager to explore new technologies and expand my skill set.
+💻 I'm experienced in utilizing Node.js, Python, and Go to build world-class products.
 
-📚 Currently, I'm immersing myself in advanced concepts of Data Structures and Algorithms through A2SV organization, aiming to deepen my understanding and further excel in my field.
+📚 Currently, I'm immersing myself in advanced concepts of Machine Learning and AI, aiming to deepen my understanding and further excel in my field.
 
 💬 Ask me anything [here](https://github.com/emrankamil/emrankamil/issues).
 
@@ -37,20 +37,19 @@ Hello, I'm Emran Kamil, a Full-stack Developer specializing in backend developme
 
 <a><img title="Typescript" height="40" src="images/typescript-logo-svgrepo-com.svg"></a>
 <a><img title="Python" height="40" width="40" src="images/python-original.svg"></a>
-<a><img title="C" height="40" width="40" src="images/go-svgrepo-com.svg"></a>
-<a><img title="Javascript" height="40" width="40" src="images/javascript.svg"></a>
+<a><img title="Go" height="40" width="40" src="images/golang.svg"></a>
 <a><img title="Java" height="40" width="40" src="images/java-original.svg"></a>
 
 ## Technology Stack
 
 <a><img title="Nextjs" height="45" width="45" src="images/nextjs-svgrepo-com (1).svg"></a>
 <a><img title="React" height="40" width="40" src="images/react-original.svg"></a>
-<a><img title="JQuery" height="40" width="40" src="images/nestjs-svgrepo-com.svg"></a>
-<a><img title="Redux" height="40" width="40" src="images/redux.svg"></a>
-<a><img title="Tailwind" height="40" width="40" src="images/tailwind-svgrepo-com.svg"></a>
+<a><img title="Nestjs" height="40" width="40" src="images/nestjs-svgrepo-com.svg"></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a><img title="Redux" height="40" width="40" src="images/redux.svg"></a>
+<a><img title="Tailwind" height="40" width="40" src="images/tailwind-svgrepo-com.svg"></a>
 <a><img title="SASS" height="40" width="40" src="images/sass.svg"></a>
 <a><img title="JSON" height="40" width="40" src="images/json.svg"></a>
 <a><img title="npm" height="40" width="40" src="images/npm.svg"></a>
